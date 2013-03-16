@@ -8,4 +8,13 @@ Friday
 #. The End of Object Inheritance and the Beginning of a New Modularity
 #. Sphinx
 #. Twisted
+#. Async
+#. Caesar
+#. Idiomatic
+#. Functional
 
+
+Saturday
+--------
+
+#. Lightning Talks
